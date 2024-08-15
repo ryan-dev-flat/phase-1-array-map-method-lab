@@ -56,7 +56,6 @@ for (const student of skiSchool) {
 If we use the `.map()` method, on the other hand, we are saying to other
 programmers: "Expect a new array to come out of this after each element is
 modified in some way!"
-
 Let's look at a few different ways to implement the native `.map()` method.
 
 ### `map()` With a Function Declaration
